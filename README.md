@@ -14,9 +14,22 @@
   </a>
 </div>
   
+  
+  
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  
+  https://www.buymeacoffee.com/jeromeanto
+  
+  
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt="30" height="30" />
+</h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 - 👋 Hi, I’m @AntoJerome11
 - 👀 I’m interested in ...
